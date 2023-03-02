@@ -3,13 +3,15 @@ This program is based on the liberty [DJITelloPy](https://github.com/damiafuente
 
 
 we have organized the code by several subsystems (blocks) which communicate with each other. 
-![Image]()
+
  
 ## Installation
 Open a terminal on the "Drone Racing Code" folder and run the following commands:
 ```
-pip install -r .\DJITelloPy\requirement.txt
 pip install -r .\requirement.txt
+git clone https://github.com/PYBrulin/DJITelloPy.git
+cd DJITelloPy
+pip install -e .
 ```
 ## Test aruco code
 run the "main_test_aruco_code.py" (see the test_aruco_code.PNG image in the images folder) to get started with the aruco code. 
@@ -26,3 +28,11 @@ run the "autonomous_drone_racing.py" (see autonomous_drone_racing.PNG) to contro
 You must run the simulator before running the code. 
 You can improve this code to make the drone faster in different scenarios.
 ![Image](images\autonomous_drone_racing.PNG)
+
+## Authors
+
+* **Fouad KHENFRI**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
