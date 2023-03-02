@@ -21,13 +21,13 @@ You don't need to run the simulator.
 ## Control the drone manually using a keyboard  
 launch the "main_manual_drone_racing.py" (see image manual_drone_racing.PNG) to control the drone with the keyboard. 
 You must run the simulator before running the code.
-![Image](images\manual_drone_racing.PNG)
+![Image](images/manual_drone_racing.PNG)
 
 ## Make an autonomous racing drone 
 run the "autonomous_drone_racing.py" (see autonomous_drone_racing.PNG) to control the drone using the information obtained from marker aruco code. 
 You must run the simulator before running the code. 
 You can improve this code to make the drone faster in different scenarios.
-![Image](images\autonomous_drone_racing.PNG)
+![Image](images/autonomous_drone_racing.PNG)
 
 ## Authors
 
