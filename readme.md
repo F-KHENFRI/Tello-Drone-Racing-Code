@@ -19,6 +19,10 @@ Can you dowload the UAV-Tello-Simulator from folowing link https://github.com/PY
 ![UAV-Tello-Simulator](https://github.com/PYBrulin/UAV-Tello-Simulator/blob/main/.github/imgs/TelloSim.jpg)
  
 ## Installation
+Download "Drone Racing Code" folder
+```
+git clone https://github.com/F-KHENFRI/Tello-Drone-Racing-Code.git
+```
 Open a terminal on the "Drone Racing Code" folder and run the following commands:
 ```
 pip install -r .\requirement.txt
