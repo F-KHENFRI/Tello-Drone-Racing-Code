@@ -15,7 +15,7 @@ we have organized the code by several subsystems (blocks) which communicate with
 > A ranking of the teams by time of completion of the entire course will be established. The teams will know the circuit only on the day of the event, it will be up to them to make a code that can cover different types of course. However, there will be no gates higher than 5m and no turns higher than 90 degrees.
 
 ## Download Links
-Can you dowload the UAV-Tello-Simulator from folowing link https://github.com/PYBrulin/UAV-Tello-Simulator/edit/main/README.md
+Can you dowload the UAV-Tello-Simulator from folowing link https://github.com/PYBrulin/UAV-Tello-Simulator
 ![UAV-Tello-Simulator](https://github.com/PYBrulin/UAV-Tello-Simulator/blob/main/.github/imgs/TelloSim.jpg)
  
 ## Installation
