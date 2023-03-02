@@ -16,7 +16,7 @@ pip install -e .
 ## Test aruco code
 run the "main_test_aruco_code.py" (see the test_aruco_code.PNG image in the images folder) to get started with the aruco code. 
 You don't need to run the simulator.
-![Image](images/test_aruco_code.PNG)
+![Image!](images/test_aruco_code.PNG)
 <img src="images/test_aruco_code.png" alt="test aruco code" width="800px">
 
 ## Control the drone manually using a keyboard  
