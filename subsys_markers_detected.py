@@ -37,8 +37,8 @@ class MarkersDetected:
         # Our operations on the frame come here
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-        aruco_dict = cv2.aruco.Dictionary_get(cv2.aruco.DICT_4X4_100)
-        parameters = cv2.aruco.DetectorParameters_create()
+        aruco_dict = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_4X4_100)
+        parameters = cv2.aruco.DetectorParameters()
         corners, ids, _ = cv2.aruco.detectMarkers(
             gray, aruco_dict, parameters=parameters
         )
